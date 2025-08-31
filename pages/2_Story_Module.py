@@ -1,7 +1,7 @@
 import streamlit as st
 from rag.rag import TinyRAG
 
-st.title("📖 Story Module: The Greenhouse Effect")
+st.title("Story Module: The Greenhouse Effect")
 st.write("A short, guided walkthrough with embedded explanations.")
 
 rag = TinyRAG("rag/docs.json")
