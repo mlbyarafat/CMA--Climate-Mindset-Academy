@@ -1,0 +1,17 @@
+[
+  {
+    "id": "greenhouse_effect",
+    "title": "What is the greenhouse effect?",
+    "text": "The greenhouse effect is the warming of a planet due to gases like carbon dioxide and methane that trap heat in the atmosphere. Sunlight warms the surface; some heat is radiated back to space, but greenhouse gases absorb and re-emit this heat, keeping the lower atmosphere warmer."
+  },
+  {
+    "id": "co2_sources",
+    "title": "Where does CO\u2082 come from?",
+    "text": "Major sources include burning fossil fuels for electricity, heat, and transport; industrial processes like cement; and land-use changes. Natural sinks such as forests and oceans remove some CO\u2082 each year."
+  },
+  {
+    "id": "personal_actions",
+    "title": "What can I do today?",
+    "text": "Choose low-carbon transport when possible, reduce food waste, shift some meals toward plant-rich options, improve home energy efficiency, and support community efforts like tree-planting or clean energy projects."
+  }
+]
